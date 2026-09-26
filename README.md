@@ -3,7 +3,7 @@ I am a dedicated CSE (Core) student at SRM IST (KTR) with a strong academic foun
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/raj-nath-6494b2382) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-nath-6494b2382/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajnathnath22@gmail.com)
 
 # 💻 Tech Stack:
